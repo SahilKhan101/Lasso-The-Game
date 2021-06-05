@@ -21,6 +21,6 @@ q : quit  <br />
 *  You will have total 3 lives in the entire game. <br />
 *  Collecting coin(red colour) will increase your score by 1, on the other hand collecting a bomb will duduct your score by 1. <br />
 
-                                  Enjoy!
+                                          Enjoy!
 
 
