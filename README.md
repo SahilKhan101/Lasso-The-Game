@@ -1,5 +1,7 @@
 # Lasso : The Game
 
+Use **CodeBlocks** to Run the Project
+
 Google Drive Link for Video :
 https://drive.google.com/drive/folders/1EbbVo3X4pzgqS6JsOnXW1VWINUXV4Kxt?usp=sharing
 
